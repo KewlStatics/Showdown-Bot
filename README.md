@@ -31,7 +31,7 @@ Pokémon Showdown Bot requires [node.js](http://nodejs.org/) to run. Install the
 
 The first step is cloning this repo, install [Git](https://git-scm.com/) if you have not it and use the following command on shell console:
 ```
-$ git clone --branch=master git://github.com/Ecuacion/Pokemon-Showdown-Node-Bot.git Pokemon-Showdown-Node-Bot
+$ git clone --branch=master git://github.com/kewlstatics/Showdown-Bot.git
 ```
 You can also download a Zip of this repo and decompress it.
 
@@ -117,3 +117,7 @@ Part of this code is imported from other developments, so credits to:
 		
  - Quinella, [Morfent](https://github.com/Morfent) and [TalkTakesTime](https://github.com/TalkTakesTime) developers of [Pokemon-Showdown-Bot](https://github.com/TalkTakesTime/Pokemon-Showdown-Bot)
  - [Guangcong Luo](https://github.com/Zarel) and other contributors of [Pokemon Showdown](https://github.com/Zarel/Pokemon-Showdown)
+
+This File Owner And Developer:
+
+- Marcus Adam [Paul71](https://girhub.com/kewlstatics)
