@@ -120,4 +120,4 @@ Part of this code is imported from other developments, so credits to:
 
 This File Owner And Developer:
 
-- Marcus Adam [Paul71](https://github.com/kewlstatics)
+- [Paul71](https://github.com/kewlstatics)
